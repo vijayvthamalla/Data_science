@@ -1,6 +1,5 @@
 # Data_science
 **Data Science projects (Complete end to end steps required to perform a data science project)**
-
 There were three projects added in this repository. These three projects will help in exposure to different basics of data science field such as
 
 **1) Data gathering or collecting using web scraping:**
